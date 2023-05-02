@@ -1,4 +1,6 @@
-#!flask/bin/python
+#!/usr/bin/python3
+""" api app.py file """
+
 from flask import Flask
 import os
 from models import storage
