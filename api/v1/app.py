@@ -1,4 +1,4 @@
-#!flask/bin/python3
+#!/usr/bin/python3
 """ api app.py file """
 
 from flask import Flask
